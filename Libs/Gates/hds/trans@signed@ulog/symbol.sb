@@ -18,12 +18,11 @@ unitName "gates"
 ]
 libraryRefs [
 "ieee"
-"unisim"
 "gates"
 ]
 )
-version "26.1"
-appVersion "2018.1 (Build 12)"
+version "27.1"
+appVersion "2019.2 (Build 5)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
@@ -411,23 +410,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Libs\\Gates\\hdl"
+value "C:\\dev\\ss1\\ss1-kart\\Libs\\Prefs\\..\\Gates\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Libs\\Gates\\hds"
+value "C:\\dev\\ss1\\ss1-kart\\Libs\\Prefs\\..\\Gates\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Libs\\Gates\\hds\\trans@signed@ulog\\symbol.sb.info"
+value "C:\\dev\\ss1\\ss1-kart\\Libs\\Prefs\\..\\Gates\\hds\\trans@signed@ulog\\symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Libs\\Gates\\hds\\trans@signed@ulog\\symbol.sb.user"
+value "C:\\dev\\ss1\\ss1-kart\\Libs\\Prefs\\..\\Gates\\hds\\trans@signed@ulog\\symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Libs\\Gates\\hds"
+value "C:\\dev\\ss1\\ss1-kart\\Libs\\Prefs\\..\\Gates\\hds"
 )
 (vvPair
 variable "appl"
@@ -447,27 +446,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Libs\\Gates\\hds\\trans@signed@ulog"
+value "C:\\dev\\ss1\\ss1-kart\\Libs\\Prefs\\..\\Gates\\hds\\trans@signed@ulog"
 )
 (vvPair
 variable "d_logical"
-value "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Libs\\Gates\\hds\\transSignedUlog"
+value "C:\\dev\\ss1\\ss1-kart\\Libs\\Prefs\\..\\Gates\\hds\\transSignedUlog"
 )
 (vvPair
 variable "date"
-value "11.09.2019"
+value "28.08.2026"
 )
 (vvPair
 variable "day"
-value "Wed"
+value "ven."
 )
 (vvPair
 variable "day_long"
-value "Wednesday"
+value "vendredi"
 )
 (vvPair
 variable "dd"
-value "11"
+value "28"
 )
 (vvPair
 variable "designName"
@@ -495,11 +494,11 @@ value "symbol"
 )
 (vvPair
 variable "graphical_source_author"
-value "silvan.zahno"
+value "Axam"
 )
 (vvPair
 variable "graphical_source_date"
-value "11.09.2019"
+value "28.08.2026"
 )
 (vvPair
 variable "graphical_source_group"
@@ -507,11 +506,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "WE6996"
+value "WE10628"
 )
 (vvPair
 variable "graphical_source_time"
-value "14:35:06"
+value "15:01:21"
 )
 (vvPair
 variable "group"
@@ -519,7 +518,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "WE6996"
+value "WE10628"
 )
 (vvPair
 variable "language"
@@ -527,15 +526,15 @@ value "VHDL"
 )
 (vvPair
 variable "library"
-value "gates"
+value "Gates"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
-value "$SCRATCH_DIR/ElN/Libraries/Gates/work"
+value "$SCRATCH_DIR/Libraries/Gates/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "08"
 )
 (vvPair
 variable "module_name"
@@ -543,19 +542,19 @@ value "transSignedUlog"
 )
 (vvPair
 variable "month"
-value "Sep"
+value "août"
 )
 (vvPair
 variable "month_long"
-value "September"
+value "août"
 )
 (vvPair
 variable "p"
-value "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Libs\\Gates\\hds\\trans@signed@ulog\\symbol.sb"
+value "C:\\dev\\ss1\\ss1-kart\\Libs\\Prefs\\..\\Gates\\hds\\trans@signed@ulog\\symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "C:\\work\\git\\Education\\eln\\labo\\solution\\eln_labs\\Libs\\Gates\\hds\\transSignedUlog\\symbol.sb"
+value "C:\\dev\\ss1\\ss1-kart\\Libs\\Prefs\\..\\Gates\\hds\\transSignedUlog\\symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -599,7 +598,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "14:35:06"
+value "15:01:21"
 )
 (vvPair
 variable "unit"
@@ -607,11 +606,11 @@ value "transSignedUlog"
 )
 (vvPair
 variable "user"
-value "silvan.zahno"
+value "Axam"
 )
 (vvPair
 variable "version"
-value "2018.1 (Build 12)"
+value "2019.2 (Build 5)"
 )
 (vvPair
 variable "view"
@@ -619,11 +618,11 @@ value "symbol"
 )
 (vvPair
 variable "year"
-value "2019"
+value "2026"
 )
 (vvPair
 variable "yy"
-value "19"
+value "26"
 )
 ]
 )
@@ -765,7 +764,7 @@ va (VaSet
 font "Verdana,8,1"
 )
 xt "50860,36700,53960,37700"
-st "gates"
+st "Gates"
 blo "50860,37500"
 )
 second (Text
@@ -1178,19 +1177,18 @@ blo "0,800"
 uid 50,0
 va (VaSet
 )
-xt "0,1000,17500,8200"
+xt "0,1000,17500,7000"
 st "LIBRARY ieee;
   USE ieee.std_logic_1164.all;
   USE ieee.numeric_std.all;
-LIBRARY unisim;
 LIBRARY gates;
 USE gates.gates.all;"
 tm "PackageList"
 )
 ]
 )
-windowSize "362,133,1379,823"
-viewArea "-500,-500,70510,47650"
+windowSize "362,133,1380,823"
+viewArea "-500,-500,70600,47740"
 cachedDiagramExtent "-93000,-40000,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-94000,-41000"
@@ -1463,6 +1461,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 220,0
-activeModelName "Symbol:GEN"
+lastUid 243,0
+activeModelName "Symbol"
 )
